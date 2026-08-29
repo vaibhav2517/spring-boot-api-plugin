@@ -1,0 +1,13 @@
+{
+
+  "name": "spring-boot-api-plugin",
+
+  "description": "Agents and skills for Java Spring Boot REST API development",
+
+  "version": "0.1.0",
+
+  "agents": "agents/",
+
+  "skills": "skills/"
+
+}
