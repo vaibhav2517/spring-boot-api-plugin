@@ -1,7 +1,7 @@
 ---
 description: "Design and architect REST APIs with Spring Boot following best practices, including endpoint design, request/response structures, error handling, and API contracts."
 name: "Spring API Designer"
-tools: [read, search, edit, web]
+tools: [read, search, edit, web, execute]
 user-invocable: true
 ---
 
