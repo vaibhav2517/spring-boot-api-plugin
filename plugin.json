@@ -4,7 +4,7 @@
 
   "description": "Agents and skills for Java Spring Boot REST API development",
 
-  "version": "0.1.0",
+  "version": "0.2.0",
 
   "agents": "agents/",
 
